@@ -1,0 +1,5 @@
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Project\x64\Release\Project.vcxproj.AssemblyReference.cache
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Project\x64\Release\Project.MyForm.resources
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Project\x64\Release\Project.MyForm1.resources
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Project\x64\Release\Project.MyForm2.resources
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Project\x64\Release\Project.vcxproj.GenerateResource.cache

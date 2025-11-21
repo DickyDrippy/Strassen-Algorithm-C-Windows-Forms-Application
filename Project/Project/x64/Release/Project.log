@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+  Source.cpp
+C:\Users\troleg1\Desktop\Kursova\Курсач\Project\Source.cpp(107,24): warning C4566: символ, представленный универсальным именем символа "\u2260", невозможно представить в текущей кодовой странице (1251)
+  .NETFramework,Version=v4.8.1.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : warning LNK4031: не указана подсистема; принимается CONSOLE
+  Project.vcxproj -> C:\Users\troleg1\Desktop\Kursova\Курсач\Project\x64\Release\Project.exe
