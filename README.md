@@ -1,1 +1,1 @@
-# Strassen-Algorithm-C-Windows-Forms-Application
+Desktop application built with C++ Windows Forms that demonstrates Strassen’s algorithm for matrix multiplication. The program provides a simple UI for entering matrices, running the algorithm, and viewing results with basic validation.
